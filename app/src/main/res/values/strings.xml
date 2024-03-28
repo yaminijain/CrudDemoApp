@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name" translatable="false">HelloWorld</string>
+    <string name="hello_world">Hello World</string>
+    <string name="press_me">Press me</string>
+    <string name="hello_android">Hello Android</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="create_task">Create Task</string>
+
+        <string-array name="status_options">
+            <item>To Do</item>
+            <item>In Progress</item>
+            <item>Done</item>
+        </string-array>
+
+
+</resources>
